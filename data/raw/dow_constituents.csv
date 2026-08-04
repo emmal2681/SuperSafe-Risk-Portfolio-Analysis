@@ -1,0 +1,31 @@
+Symbol,Company,Sector,Index
+MMM,3M,Industrials,Dow Jones
+GOOGL,Alphabet (Class A),Communication Services,Dow Jones
+AXP,American Express,Financials,Dow Jones
+AMGN,Amgen,Health Care,Dow Jones
+AMZN,Amazon,Consumer Discretionary,Dow Jones
+AAPL,Apple,Information Technology,Dow Jones
+BA,Boeing,Industrials,Dow Jones
+CAT,Caterpillar,Industrials,Dow Jones
+CVX,Chevron,Energy,Dow Jones
+CSCO,Cisco,Information Technology,Dow Jones
+KO,Coca-Cola,Consumer Staples,Dow Jones
+DIS,Disney,Communication Services,Dow Jones
+GS,Goldman Sachs,Financials,Dow Jones
+HD,Home Depot,Consumer Discretionary,Dow Jones
+HON,Honeywell Technologies,Industrials,Dow Jones
+IBM,IBM,Information Technology,Dow Jones
+JNJ,Johnson & Johnson,Health Care,Dow Jones
+JPM,JPMorgan Chase,Financials,Dow Jones
+MCD,McDonald's,Consumer Discretionary,Dow Jones
+MRK,Merck,Health Care,Dow Jones
+MSFT,Microsoft,Information Technology,Dow Jones
+NKE,Nike,Consumer Discretionary,Dow Jones
+NVDA,Nvidia,Information Technology,Dow Jones
+PG,Procter & Gamble,Consumer Staples,Dow Jones
+CRM,Salesforce,Information Technology,Dow Jones
+SHW,Sherwin-Williams,Materials,Dow Jones
+TRV,Travelers,Financials,Dow Jones
+UNH,UnitedHealth Group,Health Care,Dow Jones
+V,Visa,Financials,Dow Jones
+WMT,Walmart,Consumer Staples,Dow Jones
