@@ -1,0 +1,11 @@
+Symbol,Company,Sector,Index
+AAPL,Apple,Technology,Nasdaq-100
+MSFT,Microsoft,Technology,Nasdaq-100
+AMZN,Amazon,Consumer Discretionary,Nasdaq-100
+GOOGL,Alphabet (Google),Communication Services,Nasdaq-100
+JNJ,Johnson & Johnson,Health Care,Dow Jones
+XOM,Exxon Mobil,Energy,Dow Jones
+JPM,JPMorgan Chase,Financials,Dow Jones
+KO,Coca-Cola,Consumer Staples,Dow Jones
+PG,Procter & Gamble,Consumer Staples,Dow Jones
+CAT,Caterpillar,Industrials,Dow Jones
