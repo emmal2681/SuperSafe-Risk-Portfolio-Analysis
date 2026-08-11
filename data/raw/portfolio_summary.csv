@@ -1,0 +1,2 @@
+n_stocks,weights,risk_free_rate,annual_portfolio_return,annual_portfolio_vol,sharpe_ratio,var_95_daily_loss,var_confidence,var_method
+10,1/10 each,0.045,0.227699,0.1832,0.997263,0.015818,0.95,historical
